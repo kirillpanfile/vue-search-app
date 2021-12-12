@@ -1,4 +1,4 @@
-# vue-sass-tester
+# vue-search-app
 
 ## Project setup
 ```
